@@ -1,0 +1,14 @@
+{
+
+"videoPaths": [
+	      "/home/lijun/videos/laoshang_video/video_198_10-39.src.mpg",
+	      "/home/lijun/videos/laoshang_video/video_416_10-40.src.mpg",
+	      "/home/lijun/videos/laoshang_video/video_429_10-39.src.mpg",
+	      "/home/lijun/videos/laoshang_video/video_450_10-56.src.mpg",
+	      "/home/lijun/videos/laoshang_video/video_453_10-56.src.mpg",
+	      "/home/lijun/videos/laoshang_video/video_455_10-56.src.mpg"  // 最后一句结尾不能有逗号!!!!!!
+	      ],
+
+"saveFolder": "./roadImages"
+
+}
